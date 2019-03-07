@@ -6,3 +6,5 @@ In no particular order, here are resources for learning PowerShell:
   + Additional links to resources, ie. Getting Started path, Github and tutorials
 + [PowerShell.org](https://www.powershell.org)
   + Resources, articles, Summit information and forums.
++ [Awesome List](https://github.com/janikvonrotz/awesome-powershell)
+  + The mega list for PowerShell enthusiasts.
